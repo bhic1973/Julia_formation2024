@@ -23,4 +23,4 @@ juliaup add lts
 ```
 julia +lts --project
 ```
-![[Julia_screenshot.jpg]]
+![Julia](Julia_screenshot.jpg)
